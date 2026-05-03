@@ -136,14 +136,4 @@ scikit-learn
 jupyter
 ```
 
----
 
-## Author
-
-**[Qanzul Arays]**
-- GitHub: [@Egyy24](https://github.com/Egyy24)
-
-**[Muhammad Ibnu Rasyid]**
-- GitHub: [@Ibnurasyid15](https://github.com/Ibnurasyid15)
-
----
